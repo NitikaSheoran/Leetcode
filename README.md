@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/NitikaSheoran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/NitikaSheoran/Leetcode/tree/master/0605-can-place-flowers) |
 | [0907-koko-eating-bananas](https://github.com/NitikaSheoran/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/NitikaSheoran/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/NitikaSheoran/Leetcode/tree/master/0952-word-subsets) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/NitikaSheoran/Leetcode/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/NitikaSheoran/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Counting
