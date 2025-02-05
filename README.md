@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NitikaSheoran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/NitikaSheoran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-koko-eating-bananas](https://github.com/NitikaSheoran/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -198,11 +199,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0907-koko-eating-bananas](https://github.com/NitikaSheoran/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/NitikaSheoran/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NitikaSheoran/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
