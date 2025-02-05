@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NitikaSheoran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/NitikaSheoran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NitikaSheoran/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NitikaSheoran/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/NitikaSheoran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/NitikaSheoran/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/NitikaSheoran/Leetcode/tree/master/0952-word-subsets) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1502-construct-k-palindrome-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NitikaSheoran/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Bit Manipulation
@@ -194,23 +197,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -236,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
