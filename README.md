@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NitikaSheoran/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0952-word-subsets](https://github.com/NitikaSheoran/Leetcode/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/NitikaSheoran/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/NitikaSheoran/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/NitikaSheoran/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
