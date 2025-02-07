@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/NitikaSheoran/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/NitikaSheoran/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NitikaSheoran/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/NitikaSheoran/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NitikaSheoran/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NitikaSheoran/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NitikaSheoran/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
