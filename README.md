@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/NitikaSheoran/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/NitikaSheoran/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1127-last-stone-weight](https://github.com/NitikaSheoran/Leetcode/tree/master/1127-last-stone-weight) |
 | [1364-tuple-with-same-product](https://github.com/NitikaSheoran/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1524-string-matching-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NitikaSheoran/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/NitikaSheoran/Leetcode/tree/master/1127-last-stone-weight) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NitikaSheoran/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/NitikaSheoran/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Quickselect
