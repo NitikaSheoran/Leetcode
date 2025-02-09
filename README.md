@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/NitikaSheoran/Leetcode/tree/master/0338-counting-bits) |
 ## String
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/NitikaSheoran/Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/NitikaSheoran/Leetcode/tree/master/0338-counting-bits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/NitikaSheoran/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/NitikaSheoran/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Brainteaser
