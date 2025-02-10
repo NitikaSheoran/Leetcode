@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NitikaSheoran/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0204-count-primes](https://github.com/NitikaSheoran/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/NitikaSheoran/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/NitikaSheoran/Leetcode/tree/master/0283-move-zeroes) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NitikaSheoran/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/NitikaSheoran/Leetcode/tree/master/0231-power-of-two) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2448-count-number-of-bad-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -337,4 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/NitikaSheoran/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NitikaSheoran/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NitikaSheoran/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
