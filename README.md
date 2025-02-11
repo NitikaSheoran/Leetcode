@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/NitikaSheoran/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NitikaSheoran/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NitikaSheoran/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2428-equal-row-and-column-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/NitikaSheoran/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NitikaSheoran/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NitikaSheoran/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2428-equal-row-and-column-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/NitikaSheoran/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NitikaSheoran/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2428-equal-row-and-column-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Math
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/NitikaSheoran/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2428-equal-row-and-column-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NitikaSheoran/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/NitikaSheoran/Leetcode/tree/master/3447-clear-digits) |
 ## Ordered Set
