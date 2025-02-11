@@ -1,23 +1,31 @@
 class Solution {
     public boolean closeStrings(String word1, String word2) {
-        if(word1.length() != word2.length()){
-            return false;
-        }
-        HashMap<Character, Integer> map1 = new HashMap<>();
-        HashMap<Character,Integer> map2 = new HashMap<>();
-        for(int i=0; i<word1.length(); i++){
-            map1.put(word1.charAt(i), map1.getOrDefault(word1.charAt(i),0)+1);
-            map2.put(word2.charAt(i), map2.getOrDefault(word2.charAt(i),0)+1);
-        }
-        if(!(map1.keySet().equals(map2.keySet()))){
-            return false;
-        }
-        List<Integer> freq1 = new ArrayList<>(map1.values());
-        List<Integer> freq2 = new ArrayList<>(map2.values());
-        
-        Collections.sort(freq1);
-        Collections.sort(freq2);
+        int[] freq1 = new int[26];
+        int[] freq2 = new int[26];
 
-        return freq1.equals(freq2);
+        for (char ch : word1.toCharArray()) {
+            freq1[ch - 'a']++;
+        }
+
+        for (char ch : word2.toCharArray()) {
+            freq2[ch - 'a']++;
+        }
+
+        for (int i = 0; i < 26; i++) {
+            if ((freq1[i] == 0 && freq2[i] != 0) || (freq1[i] != 0 && freq2[i] == 0)) {
+                return false;
+            }
+        }
+
+        Arrays.sort(freq1);
+        Arrays.sort(freq2);
+
+        for (int i = 0; i < 26; i++) {
+            if (freq1[i] != freq2[i]) {
+                return false;
+            }
+        }
+
+        return true;
     }
 }
