@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/NitikaSheoran/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0365-water-and-jug-problem](https://github.com/NitikaSheoran/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NitikaSheoran/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NitikaSheoran/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0365-water-and-jug-problem](https://github.com/NitikaSheoran/Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/NitikaSheoran/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/NitikaSheoran/Leetcode/tree/master/0231-power-of-two) |
+| [0365-water-and-jug-problem](https://github.com/NitikaSheoran/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2448-count-number-of-bad-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Geometry
