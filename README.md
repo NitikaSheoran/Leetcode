@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/NitikaSheoran/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0394-decode-string) |
+| [2050-count-good-numbers](https://github.com/NitikaSheoran/Leetcode/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/NitikaSheoran/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NitikaSheoran/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2050-count-good-numbers](https://github.com/NitikaSheoran/Leetcode/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/NitikaSheoran/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Geometry
