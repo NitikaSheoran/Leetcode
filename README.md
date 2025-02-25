@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2662-check-knight-tour-configuration](https://github.com/NitikaSheoran/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/NitikaSheoran/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2662-check-knight-tour-configuration](https://github.com/NitikaSheoran/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/NitikaSheoran/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2636-maximum-subsequence-score](https://github.com/NitikaSheoran/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2662-check-knight-tour-configuration](https://github.com/NitikaSheoran/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2792-neighboring-bitwise-xor](https://github.com/NitikaSheoran/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2662-check-knight-tour-configuration](https://github.com/NitikaSheoran/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Math
 |  |
 | ------- |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/NitikaSheoran/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2428-equal-row-and-column-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/NitikaSheoran/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2662-check-knight-tour-configuration](https://github.com/NitikaSheoran/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NitikaSheoran/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/NitikaSheoran/Leetcode/tree/master/3447-clear-digits) |
