@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/NitikaSheoran/Leetcode/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/NitikaSheoran/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/NitikaSheoran/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/NitikaSheoran/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/NitikaSheoran/Leetcode/tree/master/0338-counting-bits) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/NitikaSheoran/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NitikaSheoran/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
