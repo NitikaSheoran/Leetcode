@@ -25,17 +25,7 @@ class Solution {
         c--;
     }
 
-    // Check the upper right diagonal
-    r = row;
-    c = col;
-    while (r >= 0 && c < board[0].length) {
-        if (board[r][c] == 'Q') {
-            return false;
-        }
-        r--;
-        c++;
-    }
-
+   
     // Check the lower left diagonal
     r = row;
     c = col;
@@ -47,16 +37,7 @@ class Solution {
         c--;
     }
 
-    // Check the lower right diagonal
-    r = row;
-    c = col;
-    while (r < board.length && c < board[0].length) {
-        if (board[r][c] == 'Q') {
-            return false;
-        }
-        r++;
-        c++;
-    }
+   
 
     return true;
 }
