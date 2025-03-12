@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/NitikaSheoran/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NitikaSheoran/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2636-maximum-subsequence-score](https://github.com/NitikaSheoran/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2662-check-knight-tour-configuration](https://github.com/NitikaSheoran/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NitikaSheoran/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/NitikaSheoran/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NitikaSheoran/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NitikaSheoran/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/NitikaSheoran/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NitikaSheoran/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/NitikaSheoran/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NitikaSheoran/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
