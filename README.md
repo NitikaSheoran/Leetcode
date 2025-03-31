@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NitikaSheoran/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NitikaSheoran/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NitikaSheoran/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/NitikaSheoran/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3001-apply-operations-to-maximize-score](https://github.com/NitikaSheoran/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NitikaSheoran/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
