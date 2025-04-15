@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/NitikaSheoran/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/NitikaSheoran/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/NitikaSheoran/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NitikaSheoran/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NitikaSheoran/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2280-count-good-triplets-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/NitikaSheoran/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NitikaSheoran/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/NitikaSheoran/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2280-count-good-triplets-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NitikaSheoran/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/NitikaSheoran/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/NitikaSheoran/Leetcode/tree/master/2690-house-robber-iv) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NitikaSheoran/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/NitikaSheoran/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Database
@@ -616,4 +620,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/NitikaSheoran/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
