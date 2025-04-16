@@ -8,7 +8,7 @@ class Solution {
         while(r < n){
             pairs += map.getOrDefault(nums[r],0);
             map.put(nums[r], map.getOrDefault(nums[r],0)+1);
-            while(pairs >= k){
+            while(l<n && pairs >= k){
                 ans += n-r;
                 map.put(nums[l], map.get(nums[l])-1);
                 pairs -= map.get(nums[l]);
