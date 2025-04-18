@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NitikaSheoran/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NitikaSheoran/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/NitikaSheoran/Leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/NitikaSheoran/Leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/NitikaSheoran/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/NitikaSheoran/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
