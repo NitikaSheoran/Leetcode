@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NitikaSheoran/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/NitikaSheoran/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NitikaSheoran/Leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/NitikaSheoran/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/NitikaSheoran/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/NitikaSheoran/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NitikaSheoran/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/NitikaSheoran/Leetcode/tree/master/0078-subsets) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NitikaSheoran/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/NitikaSheoran/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/NitikaSheoran/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
