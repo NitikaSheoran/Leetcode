@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/NitikaSheoran/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/NitikaSheoran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/NitikaSheoran/Leetcode/tree/master/0605-can-place-flowers) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/NitikaSheoran/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NitikaSheoran/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2280-count-good-triplets-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/NitikaSheoran/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0493-reverse-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/NitikaSheoran/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/NitikaSheoran/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/NitikaSheoran/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NitikaSheoran/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/NitikaSheoran/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -659,14 +663,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Memoization
 |  |
