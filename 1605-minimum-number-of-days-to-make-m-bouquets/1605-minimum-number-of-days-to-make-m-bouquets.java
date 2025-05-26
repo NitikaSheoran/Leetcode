@@ -1,43 +1,37 @@
 class Solution {
-    public int minDays(int[] bloomDay, int m, int k) {
-        if ((long) m * k > bloomDay.length) {
-            return -1;
-        }
-
-        int low = 1, high = (int) 1e9;
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-
-            if (isPossibleBouquets(bloomDay, m, k, mid)) {
-                high = mid;
-            } else {
-                low = mid + 1;
-            }
-        };
-
-        return low;
-    }
-    private boolean isPossibleBouquets(int[] bloomDay, int m, int k, int day) {
-        int total = 0;
-
-        for (int i = 0; i < bloomDay.length; i++) {
-            int count = 0;
-            while (i < bloomDay.length && count < k && bloomDay[i] <= day) {
+    public int noOfBouq(int days, int[] bloomDay, int k){
+        int ans=0;
+        int count=0;
+        for(int i=0; i<bloomDay.length; i++){
+            if(bloomDay[i] <= days){
                 count++;
-                i++;
+            }else{
+                count=0;
             }
-
-            if (count == k) {
-                total++;
-                i--;
-            }
-
-            if (total >= m) {
-                return true;
+            if(count == k){
+                ans++;
+                count=0;
             }
         }
-
-        return false;
+        return ans;
     }
-
+    public int minDays(int[] bloomDay, int m, int k) {
+        int l = 0;
+        int r = 0;
+        int ans = -1;
+        for(int i=0; i<bloomDay.length; i++){
+            r = Math.max(bloomDay[i], r);
+        }
+        while(l<=r){
+            int mid = (l+r)/2;
+            int bouq = noOfBouq(mid, bloomDay, k);
+            if(bouq >= m){
+                ans = mid;
+                r=mid-1;
+            }else{
+                l=mid+1;
+            }
+        }
+        return ans;
+    }
 }
