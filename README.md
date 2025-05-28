@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/NitikaSheoran/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/NitikaSheoran/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NitikaSheoran/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/NitikaSheoran/Leetcode/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NitikaSheoran/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NitikaSheoran/Leetcode/tree/master/0141-linked-list-cycle) |
