@@ -9,24 +9,34 @@
  * }
  */
 class Solution {
+    public int len(ListNode head){
+        int res = 0;
+        ListNode temp = head;
+        while(temp!=null){
+            temp = temp.next;
+            res++;
+        }
+        return res;
+    }
     public boolean isPalindrome(ListNode head) {
-        ListNode fast = head;
-        ListNode slow = head;
+        ListNode temp = head;
         Stack<Integer> stack = new Stack<>();
-        while(fast.next != null && fast.next.next != null){
-            stack.push(slow.val);
-            slow = slow.next;
-            fast = fast.next.next;
+        int len = len(head);
+        int mid = len/2;
+        while(mid!=0){
+            stack.push(temp.val);
+            temp=temp.next;
+            mid--;
         }
-        if(fast.next != null){
-            stack.push(slow.val);
+        if(len%2 == 1){
+            temp=temp.next;
         }
-        slow = slow.next;
-        while(!stack.isEmpty() && slow != null){
-            if(stack.pop() == slow.val){
-                slow = slow.next;
-            }else{
+        while(!stack.isEmpty()){
+            int data = stack.pop();
+            if(data != temp.val){
                 return false;
+            }else{
+                temp = temp.next;
             }
         }
         return true;
