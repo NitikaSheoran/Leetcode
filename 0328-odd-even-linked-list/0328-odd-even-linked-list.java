@@ -10,26 +10,41 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        if(head == null || head.next == null){
-            return head;
+        ListNode odd = null;
+        ListNode even = null;
+        ListNode oddptr = odd;
+        ListNode evenptr = even;
+        ListNode temp = head;
+        int count=1;
+        while(temp!=null){
+            if(count %2 == 0){
+                if(even == null){
+                    even = temp;
+                    evenptr = even;
+                }else{
+                    evenptr.next = temp;
+                    evenptr = evenptr.next;
+                }
+            }else{
+                if(odd == null){
+                    odd = temp;
+                    oddptr = odd;
+                }else{
+                    oddptr.next = temp;
+                    oddptr = oddptr.next;
+                }
+            }
+            temp = temp.next;
+            count++;
         }
-        ListNode odd = head;
-        ListNode evenHead = head.next;
-        ListNode even = head.next;
-        while(even.next != null && even.next.next != null){
-            ListNode temp = even.next.next;
-            odd.next = even.next;
-            odd = odd.next;
-            odd.next = evenHead;
-            even.next = temp;
-            even = even.next;
+        if(even == null){
+            return odd;
         }
-        if(even.next != null){
-            odd.next = even.next;
-            odd = odd.next;
-            odd.next = evenHead;
-            even.next = null;
+        if(odd == null){
+            return even;
         }
-        return head;
+        oddptr.next = even;
+        evenptr.next=null;
+        return odd;
     }
 }
