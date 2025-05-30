@@ -1,47 +1,44 @@
 class Solution {
-   public boolean isSafe(int row, int col, char[][] board) {
-    // Check the same row
-    for (int i = 0; i < board.length; i++) {
-        if (board[row][i] == 'Q') {
-            return false;
+    public boolean isSafe(int row, int col, char[][] board){
+        // Check the same row
+        for (int i = 0; i < board.length; i++) {
+            if (board[row][i] == 'Q') {
+                return false;
+            }
         }
-    }
-       
-    // Check the same column
-    for (int i = 0; i < board[0].length; i++) {
-        if (board[i][col] == 'Q') {
-            return false;
+        
+        // Check the same column
+        for (int i = 0; i < board[0].length; i++) {
+            if (board[i][col] == 'Q') {
+                return false;
+            }
         }
-    }
 
-    // Check the upper left diagonal
-    int r = row;
-    int c = col;
-    while (r >= 0 && c >= 0) {
-        if (board[r][c] == 'Q') {
-            return false;
+        // Check the upper left diagonal
+        int r = row;
+        int c = col;
+        while (r >= 0 && c >= 0) {
+            if (board[r][c] == 'Q') {
+                return false;
+            }
+            r--;
+            c--;
         }
-        r--;
-        c--;
-    }
 
-   
-    // Check the lower left diagonal
-    r = row;
-    c = col;
-    while (r < board.length && c >= 0) {
-        if (board[r][c] == 'Q') {
-            return false;
+    
+        // Check the lower left diagonal
+        r = row;
+        c = col;
+        while (r < board.length && c >= 0) {
+            if (board[r][c] == 'Q') {
+                return false;
+            }
+            r++;
+            c--;
         }
-        r++;
-        c--;
+        return true;
     }
-
-   
-
-    return true;
-}
-    public void result(char[][] board,List<List<String>> allBoards){
+    public void addBoard(char[][]board, List<List<String>> allBoards){
         List<String> newBoard = new ArrayList<String>();
         for(int i = 0;i<board.length;i++){
             String row = "";
@@ -56,16 +53,16 @@ class Solution {
         }
         allBoards.add(newBoard);
     }
-    public void position(char[][] board,List<List<String>> allBoards,int col){
+    public void nQueen(char[][]board, List<List<String>> allBoards, int col){
         if(col == board.length){
-            result(board,allBoards);
+            addBoard(board, allBoards);
             return;
         }
-        for(int i = 0;i<board.length;i++){
-            if(isSafe(i,col,board)){
-                board[i][col] = 'Q';
-                position(board,allBoards,col+1);
-                board[i][col] = '.';
+        for(int idx = 0; idx<board.length; idx++){
+            if(isSafe(idx, col, board)){
+                board[idx][col] = 'Q';
+                nQueen(board, allBoards, col+1);
+                board[idx][col] = '.';
             }
         }
     }
@@ -77,7 +74,7 @@ class Solution {
                 board[i][j] = '.';
             }
         }
-        position(board, allBoards, 0);
+        nQueen(board, allBoards, 0);
         return allBoards;
     }
 }
