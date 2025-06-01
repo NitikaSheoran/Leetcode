@@ -1,39 +1,31 @@
 class Solution {
     public String minWindow(String s, String t) {
-        Map<Character,Integer> map = new HashMap<>();
-        int l = 0;
-        int r = 0;
-        int count = 0;
-        int stIdx = -1;
-        int minl = Integer.MAX_VALUE;
-        for(int i =0;i<t.length();i++){
-            map.put(t.charAt(i),map.getOrDefault(t.charAt(i),0)+1);
+        int l=0;
+        int r=0;
+        int count=0;
+        int minLen = Integer.MAX_VALUE;
+        int[] hash = new int[256];
+        int n = s.length();
+        int m = t.length();
+        int stIdx=-1;
+        for(int i=0; i<m; i++){
+            hash[t.charAt(i)]++;
         }
-        while(r<s.length()){
+        while(r<n){
             char ch = s.charAt(r);
-             if (map.containsKey(ch)) {
-                map.put(ch, map.get(ch) - 1);
-                if (map.get(ch) >= 0) {
-                    count++;
-                }
-            }
-            while(count == t.length()){
-                if(r-l+1<minl){
-                    minl = r-l+1;
+            if(hash[ch]>0) count++;
+            hash[ch]--;
+            while(count == m){
+                if(r-l+1 < minLen){
+                    minLen = r-l+1;
                     stIdx = l;
                 }
-                char ch2 = s.charAt(l);
-                if (map.containsKey(ch2)){
-                    map.put(ch2, map.get(ch2) + 1);
-                    if (map.get(ch2) > 0){
-                        count--;
-                    }
-                }
+                hash[s.charAt(l)]++;
+                if(hash[s.charAt(l)] > 0) count--;
                 l++;
             }
             r++;
         }
-        return stIdx==-1 ? "" : s.substring(stIdx,stIdx + minl);
-        
+        return stIdx==-1? "": s.substring(stIdx, stIdx+minLen);
     }
 }
