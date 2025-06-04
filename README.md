@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/NitikaSheoran/Leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/NitikaSheoran/Leetcode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/NitikaSheoran/Leetcode/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/NitikaSheoran/Leetcode/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/NitikaSheoran/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NitikaSheoran/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
