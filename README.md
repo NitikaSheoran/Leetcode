@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/NitikaSheoran/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/NitikaSheoran/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/NitikaSheoran/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NitikaSheoran/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NitikaSheoran/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NitikaSheoran/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/NitikaSheoran/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/NitikaSheoran/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
