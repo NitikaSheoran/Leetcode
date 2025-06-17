@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/NitikaSheoran/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NitikaSheoran/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/NitikaSheoran/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/NitikaSheoran/Leetcode/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0820-find-eventual-safe-states](https://github.com/NitikaSheoran/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/NitikaSheoran/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NitikaSheoran/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/NitikaSheoran/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/NitikaSheoran/Leetcode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/NitikaSheoran/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/NitikaSheoran/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/NitikaSheoran/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/NitikaSheoran/Leetcode/tree/master/0649-dota2-senate) |
+| [0721-accounts-merge](https://github.com/NitikaSheoran/Leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/NitikaSheoran/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/NitikaSheoran/Leetcode/tree/master/0952-word-subsets) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/NitikaSheoran/Leetcode/tree/master/0605-can-place-flowers) |
+| [0721-accounts-merge](https://github.com/NitikaSheoran/Leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/NitikaSheoran/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/NitikaSheoran/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/NitikaSheoran/Leetcode/tree/master/0739-daily-temperatures) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/NitikaSheoran/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/NitikaSheoran/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NitikaSheoran/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/NitikaSheoran/Leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/NitikaSheoran/Leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/NitikaSheoran/Leetcode/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -622,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/NitikaSheoran/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0721-accounts-merge](https://github.com/NitikaSheoran/Leetcode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/NitikaSheoran/Leetcode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -821,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/NitikaSheoran/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/NitikaSheoran/Leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/NitikaSheoran/Leetcode/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/NitikaSheoran/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/NitikaSheoran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NitikaSheoran/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
