@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/NitikaSheoran/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/NitikaSheoran/Leetcode/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/NitikaSheoran/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/NitikaSheoran/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/NitikaSheoran/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NitikaSheoran/Leetcode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/NitikaSheoran/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/NitikaSheoran/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -910,4 +912,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/NitikaSheoran/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/NitikaSheoran/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
