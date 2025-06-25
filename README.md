@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/NitikaSheoran/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/NitikaSheoran/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/NitikaSheoran/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/NitikaSheoran/Leetcode/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/NitikaSheoran/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/NitikaSheoran/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/NitikaSheoran/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/NitikaSheoran/Leetcode/tree/master/0238-product-of-array-except-self) |
