@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/NitikaSheoran/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/NitikaSheoran/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/NitikaSheoran/Leetcode/tree/master/0649-dota2-senate) |
+| [0686-repeated-string-match](https://github.com/NitikaSheoran/Leetcode/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/NitikaSheoran/Leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/NitikaSheoran/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0812-rotate-string) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/NitikaSheoran/Leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NitikaSheoran/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
