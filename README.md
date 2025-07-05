@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/NitikaSheoran/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1428-jump-game-iii](https://github.com/NitikaSheoran/Leetcode/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NitikaSheoran/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/NitikaSheoran/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/NitikaSheoran/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1428-jump-game-iii](https://github.com/NitikaSheoran/Leetcode/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NitikaSheoran/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/NitikaSheoran/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/NitikaSheoran/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/NitikaSheoran/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NitikaSheoran/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NitikaSheoran/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1428-jump-game-iii](https://github.com/NitikaSheoran/Leetcode/tree/master/1428-jump-game-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NitikaSheoran/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NitikaSheoran/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
