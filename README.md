@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/NitikaSheoran/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1428-jump-game-iii](https://github.com/NitikaSheoran/Leetcode/tree/master/1428-jump-game-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NitikaSheoran/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NitikaSheoran/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1524-string-matching-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NitikaSheoran/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NitikaSheoran/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/NitikaSheoran/Leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/NitikaSheoran/Leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/NitikaSheoran/Leetcode/tree/master/0890-lemonade-change) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NitikaSheoran/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/NitikaSheoran/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NitikaSheoran/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/NitikaSheoran/Leetcode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NitikaSheoran/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NitikaSheoran/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/NitikaSheoran/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/NitikaSheoran/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/NitikaSheoran/Leetcode/tree/master/1127-last-stone-weight) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NitikaSheoran/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/NitikaSheoran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NitikaSheoran/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
