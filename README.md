@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NitikaSheoran/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NitikaSheoran/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NitikaSheoran/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NitikaSheoran/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NitikaSheoran/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2050-count-good-numbers](https://github.com/NitikaSheoran/Leetcode/tree/master/2050-count-good-numbers) |
