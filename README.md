@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/NitikaSheoran/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/NitikaSheoran/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/NitikaSheoran/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/NitikaSheoran/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NitikaSheoran/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/NitikaSheoran/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/NitikaSheoran/Leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/NitikaSheoran/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NitikaSheoran/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/NitikaSheoran/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/NitikaSheoran/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/NitikaSheoran/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0394-decode-string) |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NitikaSheoran/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/NitikaSheoran/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/NitikaSheoran/Leetcode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/NitikaSheoran/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/NitikaSheoran/Leetcode/tree/master/0231-power-of-two) |
 | [0365-water-and-jug-problem](https://github.com/NitikaSheoran/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/NitikaSheoran/Leetcode/tree/master/0371-sum-of-two-integers) |
