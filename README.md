@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NitikaSheoran/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NitikaSheoran/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NitikaSheoran/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NitikaSheoran/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -884,11 +886,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/NitikaSheoran/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NitikaSheoran/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/NitikaSheoran/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Geometry
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Bucket Sort
 |  |
 | ------- |
