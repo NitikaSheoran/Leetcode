@@ -884,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/NitikaSheoran/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NitikaSheoran/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/NitikaSheoran/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Geometry
 |  |
 | ------- |
