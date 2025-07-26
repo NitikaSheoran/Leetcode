@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/NitikaSheoran/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/NitikaSheoran/Leetcode/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0801-is-graph-bipartite](https://github.com/NitikaSheoran/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/NitikaSheoran/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/NitikaSheoran/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/NitikaSheoran/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/NitikaSheoran/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/NitikaSheoran/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/NitikaSheoran/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/NitikaSheoran/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/NitikaSheoran/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/NitikaSheoran/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -993,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/NitikaSheoran/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/NitikaSheoran/Leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/NitikaSheoran/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/NitikaSheoran/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/NitikaSheoran/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/NitikaSheoran/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/NitikaSheoran/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/NitikaSheoran/Leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/NitikaSheoran/Leetcode/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/NitikaSheoran/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/NitikaSheoran/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/NitikaSheoran/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/NitikaSheoran/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
