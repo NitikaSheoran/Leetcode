@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/NitikaSheoran/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/NitikaSheoran/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/NitikaSheoran/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/NitikaSheoran/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NitikaSheoran/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/NitikaSheoran/Leetcode/tree/master/0198-house-robber) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/NitikaSheoran/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/NitikaSheoran/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/NitikaSheoran/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/NitikaSheoran/Leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/NitikaSheoran/Leetcode/tree/master/0224-basic-calculator) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/NitikaSheoran/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/NitikaSheoran/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/NitikaSheoran/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/NitikaSheoran/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/NitikaSheoran/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/NitikaSheoran/Leetcode/tree/master/0169-majority-element) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/NitikaSheoran/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/NitikaSheoran/Leetcode/tree/master/1397-search-suggestions-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NitikaSheoran/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/NitikaSheoran/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/NitikaSheoran/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/NitikaSheoran/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/NitikaSheoran/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/NitikaSheoran/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NitikaSheoran/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -1094,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NitikaSheoran/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/NitikaSheoran/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/NitikaSheoran/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search Tree
 |  |
