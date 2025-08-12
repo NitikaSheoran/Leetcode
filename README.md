@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/NitikaSheoran/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/NitikaSheoran/Leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0542-01-matrix) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/NitikaSheoran/Leetcode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/NitikaSheoran/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NitikaSheoran/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/NitikaSheoran/Leetcode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/NitikaSheoran/Leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/NitikaSheoran/Leetcode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NitikaSheoran/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/NitikaSheoran/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NitikaSheoran/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/NitikaSheoran/Leetcode/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/NitikaSheoran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/NitikaSheoran/Leetcode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/NitikaSheoran/Leetcode/tree/master/0876-hand-of-straights) |
@@ -833,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/NitikaSheoran/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/NitikaSheoran/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/NitikaSheoran/Leetcode/tree/master/0502-ipo) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/NitikaSheoran/Leetcode/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/NitikaSheoran/Leetcode/tree/master/1397-search-suggestions-system) |
