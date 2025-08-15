@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/NitikaSheoran/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/NitikaSheoran/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/NitikaSheoran/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/NitikaSheoran/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/NitikaSheoran/Leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/NitikaSheoran/Leetcode/tree/master/2050-count-good-numbers) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/NitikaSheoran/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/NitikaSheoran/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/NitikaSheoran/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/NitikaSheoran/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/NitikaSheoran/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/NitikaSheoran/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/NitikaSheoran/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/NitikaSheoran/Leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/NitikaSheoran/Leetcode/tree/master/0279-perfect-squares) |
+| [0342-power-of-four](https://github.com/NitikaSheoran/Leetcode/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/NitikaSheoran/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/NitikaSheoran/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/NitikaSheoran/Leetcode/tree/master/1013-fibonacci-number) |
