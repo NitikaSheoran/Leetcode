@@ -9,36 +9,25 @@
  * }
  */
 class Solution {
-    public int len(ListNode head){
-        int res = 0;
-        ListNode temp = head;
-        while(temp!=null){
-            temp = temp.next;
-            res++;
-        }
-        return res;
-    }
     public boolean isPalindrome(ListNode head) {
-        ListNode temp = head;
-        Stack<Integer> stack = new Stack<>();
-        int len = len(head);
-        int mid = len/2;
-        while(mid!=0){
-            stack.push(temp.val);
-            temp=temp.next;
-            mid--;
+        List<Integer> arr = new ArrayList<>();
+
+        while (head != null) {
+            arr.add(head.val);
+            head = head.next;
         }
-        if(len%2 == 1){
-            temp=temp.next;
-        }
-        while(!stack.isEmpty()){
-            int data = stack.pop();
-            if(data != temp.val){
+
+        int left = 0;
+        int right = arr.size() - 1;
+
+        while (left < right) {
+            if (!arr.get(left).equals(arr.get(right))) {
                 return false;
-            }else{
-                temp = temp.next;
             }
+            left++;
+            right--;
         }
-        return true;
+
+        return true;   
     }
 }
