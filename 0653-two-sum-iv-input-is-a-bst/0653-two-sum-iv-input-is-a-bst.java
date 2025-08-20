@@ -1,23 +1,32 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    public boolean find(TreeNode root, TreeNode current, int k) {
-        if (current == null) return false;
+    HashSet<Integer> set = new HashSet<>();
+    public boolean f(TreeNode root, int k){
+        if(root == null) return false;
+        if(set.contains(k-root.val)) return true;
 
-        // Search for complement value in the tree (excluding current node)
-        if (search(root, current, k - current.val)) return true;
+        set.add(root.val);
 
-        // Continue DFS
-        return find(root, current.left, k) || find(root, current.right, k);
+        boolean left = f(root.left, k);
+        boolean right = f(root.right, k);
+
+        return left || right;
     }
-
-    // Search for value in BST, skip the current node itself
-    public boolean search(TreeNode root, TreeNode skip, int target) {
-        if (root == null) return false;
-        if (root.val == target && root != skip) return true;
-        if (target < root.val) return search(root.left, skip, target);
-        else return search(root.right, skip, target);
-    }
-
     public boolean findTarget(TreeNode root, int k) {
-        return find(root, root, k);
+        return f(root, k);
     }
 }
