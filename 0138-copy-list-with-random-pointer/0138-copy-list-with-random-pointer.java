@@ -1,43 +1,38 @@
-/*
-// Definition for a Node.
-class Node {
-    int val;
-    Node next;
-    Node random;
-
-    public Node(int val) {
-        this.val = val;
-        this.next = null;
-        this.random = null;
-    }
-}
-*/
-
 class Solution {
     public Node copyRandomList(Node head) {
-        Node temp = head;
-        while(temp!=null){
-            Node newnode = new Node(temp.val);
-            newnode.next = temp.next;
-            temp.next = newnode;
-            temp = temp.next.next;
+        if (head == null) return null;
+
+        // Step 1: Interleave nodes
+        Node curr = head;
+        while (curr != null) {
+            Node copy = new Node(curr.val);
+            copy.next = curr.next;
+            curr.next = copy;
+            curr = copy.next;
         }
-        temp = head;
-        while(temp!=null){
-            Node copy = temp.next;
-            if(temp.random!=null)
-                copy.random = temp.random.next;
-            temp = temp.next.next;
+
+        // Step 2: Assign random pointers
+        curr = head;
+        while (curr != null) {
+            if (curr.random != null) {
+                curr.next.random = curr.random.next;
+            }
+            curr = curr.next.next;
         }
-        Node dummy = new Node(0);
-        temp =head;
-        Node temp1 = dummy;
-        while(temp!=null){
-            temp1.next = temp.next;
-            temp.next = temp.next.next;
-            temp1 = temp1.next;
-            temp = temp.next;
+
+        // Step 3: Separate lists
+        curr = head;
+        Node copyHead = head.next;
+        Node copyCurr = copyHead;
+        while (curr != null) {
+            curr.next = curr.next.next;
+            if (copyCurr.next != null) {
+                copyCurr.next = copyCurr.next.next;
+            }
+            curr = curr.next;
+            copyCurr = copyCurr.next;
         }
-        return dummy.next;
+
+        return copyHead;
     }
 }
