@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NitikaSheoran/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/NitikaSheoran/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/NitikaSheoran/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## String
 |  |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NitikaSheoran/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/NitikaSheoran/Leetcode/tree/master/1895-largest-magic-square) |
 | [2465-shifting-letters-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 |  |
