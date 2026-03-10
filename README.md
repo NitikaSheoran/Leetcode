@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/NitikaSheoran/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/NitikaSheoran/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/NitikaSheoran/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NitikaSheoran/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NitikaSheoran/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/NitikaSheoran/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NitikaSheoran/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/NitikaSheoran/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/NitikaSheoran/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/NitikaSheoran/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NitikaSheoran/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NitikaSheoran/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NitikaSheoran/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/NitikaSheoran/Leetcode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NitikaSheoran/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1397-search-suggestions-system](https://github.com/NitikaSheoran/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NitikaSheoran/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NitikaSheoran/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -1177,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/NitikaSheoran/Leetcode/tree/master/0274-h-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NitikaSheoran/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Combinatorics
 |  |
 | ------- |
