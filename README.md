@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/NitikaSheoran/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NitikaSheoran/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/NitikaSheoran/Leetcode/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/NitikaSheoran/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/NitikaSheoran/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -997,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/NitikaSheoran/Leetcode/tree/master/0289-game-of-life) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NitikaSheoran/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1929-concatenation-of-array](https://github.com/NitikaSheoran/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/NitikaSheoran/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/NitikaSheoran/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
