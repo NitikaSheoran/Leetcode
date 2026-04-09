@@ -1038,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/NitikaSheoran/Leetcode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/NitikaSheoran/Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1258-article-views-i](https://github.com/NitikaSheoran/Leetcode/tree/master/1258-article-views-i) |
+| [1280-students-and-examinations](https://github.com/NitikaSheoran/Leetcode/tree/master/1280-students-and-examinations) |
 | [1317-monthly-transactions-i](https://github.com/NitikaSheoran/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/NitikaSheoran/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1452-restaurant-growth](https://github.com/NitikaSheoran/Leetcode/tree/master/1452-restaurant-growth) |
