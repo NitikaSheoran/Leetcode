@@ -1,11 +1,11 @@
 class Solution {
-    public void reverse(int[] nums, int strt, int end){
-        while(strt < end){
-            int temp = nums[strt];
-            nums[strt] = nums[end];
-            nums[end] = temp; 
-            strt++;
-            end--;
+    public void reverse(int[] nums, int i, int j){
+        while(i<j){
+            int temp = nums[i];
+            nums[i] = nums[j];
+            nums[j] = temp;
+            i++;
+            j--;
         }
     }
     public void rotate(int[] nums, int k) {
