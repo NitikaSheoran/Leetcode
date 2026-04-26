@@ -959,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/NitikaSheoran/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/NitikaSheoran/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/NitikaSheoran/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/NitikaSheoran/Leetcode/tree/master/0062-unique-paths) |
