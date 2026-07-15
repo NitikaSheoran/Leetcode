@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/NitikaSheoran/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/NitikaSheoran/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/NitikaSheoran/Leetcode/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/NitikaSheoran/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/NitikaSheoran/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/NitikaSheoran/Leetcode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/NitikaSheoran/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/NitikaSheoran/Leetcode/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1034-subarrays-with-k-different-integers](https://github.com/NitikaSheoran/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/NitikaSheoran/Leetcode/tree/master/1036-rotting-oranges) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/NitikaSheoran/Leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/0772-construct-quad-tree) |
+| [0994-rotting-oranges](https://github.com/NitikaSheoran/Leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/NitikaSheoran/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/NitikaSheoran/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
