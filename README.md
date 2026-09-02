@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/NitikaSheoran/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NitikaSheoran/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/NitikaSheoran/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/NitikaSheoran/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/0494-target-sum) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/NitikaSheoran/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/NitikaSheoran/Leetcode/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/NitikaSheoran/Leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/NitikaSheoran/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NitikaSheoran/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/NitikaSheoran/Leetcode/tree/master/0768-partition-labels) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/NitikaSheoran/Leetcode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/NitikaSheoran/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NitikaSheoran/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/NitikaSheoran/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/NitikaSheoran/Leetcode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/NitikaSheoran/Leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/NitikaSheoran/Leetcode/tree/master/0649-dota2-senate) |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/NitikaSheoran/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NitikaSheoran/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/NitikaSheoran/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/NitikaSheoran/Leetcode/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/NitikaSheoran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/NitikaSheoran/Leetcode/tree/master/0721-accounts-merge) |
@@ -1257,4 +1261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NitikaSheoran/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/NitikaSheoran/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
