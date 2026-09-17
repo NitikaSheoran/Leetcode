@@ -1265,4 +1265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/NitikaSheoran/Leetcode/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/NitikaSheoran/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
