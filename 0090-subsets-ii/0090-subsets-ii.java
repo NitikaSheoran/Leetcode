@@ -1,23 +1,28 @@
 class Solution {
-    public void comb(int[] nums, int i, List<Integer> arr, List<List<Integer>> res){
-        res.add(new ArrayList<>(arr));
+    public void f(List<List<Integer>> res, List<Integer> arr, int idx, int[] nums){
+        // if(idx == nums.length){
+        //     res.add(new ArrayList(arr));
+        //     return;
+        // }
+        res.add(new ArrayList(arr));
 
-        for(int idx = i; idx<nums.length; idx++){
-            if(idx>i && nums[idx] == nums[idx-1]) continue;
+        // arr.add(nums[idx]);
+        // f(res, arr, idx+1, nums);
+        // arr.remove(arr.size()-1);
+        // f(res, arr, idx+1, nums);
+        for(int i = idx; i<nums.length; i++){
+            if(i>idx && nums[i] == nums[i-1]) continue;
 
-            arr.add(nums[idx]);
-            comb(nums, idx+1, arr, res);
+            arr.add(nums[i]);
+            f(res, arr, i+1, nums);
             arr.remove(arr.size()-1);
         }
-
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        List<Integer> arr = new ArrayList<>();
         Arrays.sort(nums);
         List<List<Integer>> res = new ArrayList<>();
-        
-        comb(nums, 0, arr, res);
-        
+        List<Integer> arr = new ArrayList<>();
+        f(res, arr, 0, nums);
         return res;
     }
 }
