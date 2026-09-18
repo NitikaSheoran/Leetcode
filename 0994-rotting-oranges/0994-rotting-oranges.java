@@ -1,60 +1,50 @@
 class Solution {
-    class Node{
-        int row;
-        int col;
-        public Node(int row, int col){
-            this.row = row;
-            this.col = col;
-        }
-    }
     public int orangesRotting(int[][] grid) {
-        int row = grid.length;
-        int col = grid[0].length;
-        int oneC = 0;
-        Queue<Node> queue = new LinkedList<>();
-        for(int i=0; i<row; i++){
-            for(int j=0; j<col; j++){
+        Queue<int[]> queue = new LinkedList<>();
+        int m = grid.length;
+        int n = grid[0].length;
+        boolean[][] visited = new boolean[m][n];
+        int count = 0;
+        int fresh = 0;
+
+        for(int i=0; i<m; i++){
+            for(int j = 0; j<n; j++){
                 if(grid[i][j] == 2){
-                    queue.add(new Node(i, j));
+                    queue.add(new int[]{i,j});
+                    visited[i][j] = true;
                 }
-                if(grid[i][j] == 1){
-                    oneC++;
-                }
+                if(grid[i][j] == 1) fresh++;
             }
         }
-        if(oneC == 0) return 0;
-        int count = 0;
+        if(fresh == 0) return 0;
+        if(queue.size() == 0) return -1;
+        
 
         while(!queue.isEmpty()){
             int size = queue.size();
             for(int i=0; i<size; i++){
-                Node top = queue.poll();
-                int r = top.row;
-                int c = top.col;
-                if(r-1 >=0 && grid[r-1][c]==1){
-                    queue.add(new Node(r-1, c));
-                    grid[r-1][c] = 2;
-                    oneC--;
-                }
-                if(r+1 < row && grid[r+1][c] == 1){
-                    queue.add(new Node(r+1, c));
-                    grid[r+1][c] = 2;
-                    oneC--;
-                }
-                if(c-1>=0 && grid[r][c-1] == 1){
-                    queue.add(new Node(r, c-1));
-                    grid[r][c-1]=2;
-                    oneC--;
-                }
-                if(c+1<col && grid[r][c+1]==1){
-                    queue.add(new Node(r,c+1));
-                    grid[r][c+1]=2;
-                    oneC--;
+                int[] top = queue.poll();
+                int[][] positions = {{0,-1},{0,1},{-1,0},{1,0}};
+                for(int[] pos: positions){
+                    int newI = top[0]+pos[0];
+                    int newJ = top[1] + pos[1];
+                    if(newI >=0 && newJ>=0 && newI<m && newJ<n && !visited[newI][newJ] && grid[newI][newJ] == 1){
+                        visited[newI][newJ] = true;
+                        queue.add(new int[]{newI, newJ});
+                        fresh--;
+                    }
                 }
             }
             count++;
+            if(fresh == 0) return count;
         }
-        if(oneC == 0) return count-1;
-        return -1;
+        for(int i=0; i<m; i++){
+            for(int j = 0; j<n; j++){
+                if(grid[i][j] == 1){
+                    return -1;
+                }
+            }
+        }
+        return count;
     }
 }
