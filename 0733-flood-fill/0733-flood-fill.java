@@ -1,41 +1,29 @@
 class Solution {
-    class Node{
-        int row;
-        int col;
-        Node(int row, int col){
-            this.row = row;
-            this.col = col;
-        }
-    }
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        Queue<int[]> queue = new LinkedList<>();
         int m = image.length;
         int n = image[0].length;
-        if(image[sr][sc] == color) return image;
-        Queue<Node> q = new LinkedList<>();
-        q.add(new Node(sr, sc));
-        int initialColor = image[sr][sc];
+        boolean[][] visited = new boolean[m][n];
+        queue.add(new int[]{sr,sc,image[sr][sc]});
         image[sr][sc] = color;
-        while(!q.isEmpty()){
-            int size = q.size();
+        visited[sr][sc] = true;
+
+        while(!queue.isEmpty()){
+            int size = queue.size();
             for(int i=0; i<size; i++){
-                Node node = q.poll();
-                int row = node.row;
-                int col = node.col;
-                if(row+1 < m && image[row+1][col] == initialColor){
-                    image[row+1][col] = color;
-                    q.add(new Node(row+1, col));
-                }
-                if(col+1 < n && image[row][col+1] == initialColor){
-                    image[row][col+1] = color;
-                    q.add(new Node(row, col+1));
-                }
-                if(row-1 >= 0 && image[row-1][col] == initialColor){
-                    image[row-1][col] = color;
-                    q.add(new Node(row-1, col));
-                }
-                if(col-1 >= 0 && image[row][col-1] == initialColor){
-                    image[row][col-1] = color;
-                    q.add(new Node(row, col-1));
+                int[] top = queue.poll();
+                int c = top[2];
+                int[][] positions = {{-1,0},{1,0},{0,1},{0,-1}};
+                for(int[] pos: positions){
+                    int newI = top[0]+pos[0];
+                    int newJ = top[1] + pos[1];
+
+                    if(newI>=0 && newJ>=0 && newI<m && newJ<n && !visited[newI][newJ] && image[newI][newJ] == c){
+                        queue.add(new int[]{newI,newJ,image[newI][newJ]});
+                        image[newI][newJ] = color;
+                        visited[newI][newJ] = true;
+                        
+                    }
                 }
             }
         }
