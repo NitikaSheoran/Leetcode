@@ -1,4 +1,3 @@
-
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         int[] inDegree = new int[numCourses];
