@@ -14,23 +14,15 @@
  * }
  */
 class Solution {
-    public boolean symm(TreeNode left, TreeNode right){
-        if(left == null && right == null){
-            return true;
-        }
-        if((left == null && right != null) || (left != null && right == null)){
+    public boolean f(TreeNode right, TreeNode left){
+        if(right == null && left == null) return true;
+        if((right == null && left != null) || (right != null && left == null) || (right.val != left.val)){
             return false;
-        }
-        if(right.val != left.val){
-            return false;
-        }
-        return symm(left.right, right.left) && symm(left.left, right.right);
-    }
-    public boolean isSymmetric(TreeNode root) {
-        if(root == null){
-            return true;
         }
 
-        return symm(root.left, root.right);
+        return f(right.left, left.right) && f(right.right, left.left); 
+    }
+    public boolean isSymmetric(TreeNode root) {
+        return f(root.right, root.left);
     }
 }
