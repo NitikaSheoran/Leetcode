@@ -1,19 +1,21 @@
 class Solution {
-    public void f(List<String> res, String str, int open, int close, int n){
+    public void f(int open, int close, int n, String str, List<String> res){
         if(open == close && open == n){
             res.add(str);
             return;
         }
         if(open > n) return;
 
-        f(res, str+"(", open+1, close, n);
-        if(open > close){
-            f(res, str+")", open, close+1, n);
+        
+        f(open+1,close,n,str+"(",res);
+        if(open>close){
+            f(open, close+1, n, str+")", res);
         }
+        
     }
     public List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<>();
-        f(res, "", 0, 0, n);
+        f(0, 0, n, "", res);
         return res;
     }
 }
