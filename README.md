@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/NitikaSheoran/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/NitikaSheoran/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/NitikaSheoran/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/NitikaSheoran/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/NitikaSheoran/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/NitikaSheoran/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/NitikaSheoran/Leetcode/tree/master/0079-word-search) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NitikaSheoran/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/NitikaSheoran/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/0137-single-number-ii) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/NitikaSheoran/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/NitikaSheoran/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/NitikaSheoran/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/NitikaSheoran/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NitikaSheoran/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NitikaSheoran/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NitikaSheoran/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/NitikaSheoran/Leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/NitikaSheoran/Leetcode/tree/master/0289-game-of-life) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NitikaSheoran/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/NitikaSheoran/Leetcode/tree/master/1929-concatenation-of-array) |
