@@ -1,31 +1,32 @@
 class Solution {
-    public int[] rightM(int[] height){
-        int[] res = new int[height.length];
-        res[height.length-1] = height[height.length-1];
-        for(int i=height.length-2; i>=0; i--){
-            res[i] = Math.max(height[i], res[i+1]);
+    public int[] rightG(int[] height){
+        int n = height.length;
+        int[] right = new int[n];
+        right[n-1] = height[n-1];
+        for(int i=n-2; i>=0; i--){
+            right[i] = Math.max(right[i+1], height[i]);
         }
-        return res;
+        return right;
     }
-
-    public int[] leftM(int[] height){
-        int[] res = new int[height.length];
-        res[0] = height[0];
-        for(int i=1; i<height.length; i++){
-            res[i] = Math.max(height[i], res[i-1]);
+    public int[] leftG(int[] height){
+        int n = height.length;
+        int[] left = new int[n];
+        left[0] = height[0];
+        for(int i=1; i<n; i++){
+            left[i] = Math.max(left[i-1], height[i]);
         }
-        return res;
+        return left;
     }
-
-    
     public int trap(int[] height) {
-        int[] rM = rightM(height);
-        int[] lM = leftM(height);
-
+        int n = height.length;
+        int[] right = rightG(height);
+        int[] left = leftG(height);
         int res = 0;
-        for(int i=0; i<height.length; i++){
-            res += Math.min(rM[i], lM[i])-height[i];
-        } 
+
+        for(int i=0; i<n; i++){
+            int h = Math.min(right[i], left[i]) - height[i];
+            res += h;
+        }
         return res;
     }
 }
