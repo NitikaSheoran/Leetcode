@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NitikaSheoran/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
