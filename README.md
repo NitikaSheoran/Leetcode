@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/NitikaSheoran/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
+| [4035-maximum-valid-split-positions-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Prefix Sum
@@ -1052,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/NitikaSheoran/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/NitikaSheoran/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
+| [4035-maximum-valid-split-positions-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## Geometry
 |  |
 | ------- |
@@ -1130,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NitikaSheoran/Leetcode/tree/master/0204-count-primes) |
+| [4035-maximum-valid-split-positions-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -1138,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/NitikaSheoran/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NitikaSheoran/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4035-maximum-valid-split-positions-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
