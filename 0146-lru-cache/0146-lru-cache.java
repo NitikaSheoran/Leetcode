@@ -1,5 +1,4 @@
 class LRUCache {
-
     private class Node{
         int key;
         int val;
