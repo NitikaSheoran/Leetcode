@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/NitikaSheoran/Leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NitikaSheoran/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/NitikaSheoran/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3001-apply-operations-to-maximize-score](https://github.com/NitikaSheoran/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -1138,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NitikaSheoran/Leetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [4035-maximum-valid-split-positions-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## Number Theory
 |  |
