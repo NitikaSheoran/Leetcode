@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NitikaSheoran/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NitikaSheoran/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/NitikaSheoran/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/NitikaSheoran/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/NitikaSheoran/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3001-apply-operations-to-maximize-score](https://github.com/NitikaSheoran/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NitikaSheoran/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/NitikaSheoran/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/NitikaSheoran/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NitikaSheoran/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/NitikaSheoran/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
