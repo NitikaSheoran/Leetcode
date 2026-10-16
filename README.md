@@ -1325,4 +1325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/NitikaSheoran/Leetcode/tree/master/0207-course-schedule) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/NitikaSheoran/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
