@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/NitikaSheoran/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2107-find-unique-binary-string](https://github.com/NitikaSheoran/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NitikaSheoran/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/NitikaSheoran/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NitikaSheoran/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NitikaSheoran/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/NitikaSheoran/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NitikaSheoran/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/NitikaSheoran/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/NitikaSheoran/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NitikaSheoran/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NitikaSheoran/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
