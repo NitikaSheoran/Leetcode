@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NitikaSheoran/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/NitikaSheoran/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/NitikaSheoran/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
