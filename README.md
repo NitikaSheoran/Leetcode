@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/NitikaSheoran/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/NitikaSheoran/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NitikaSheoran/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NitikaSheoran/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/NitikaSheoran/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/NitikaSheoran/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/NitikaSheoran/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/NitikaSheoran/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NitikaSheoran/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/NitikaSheoran/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/NitikaSheoran/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/NitikaSheoran/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NitikaSheoran/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/NitikaSheoran/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
