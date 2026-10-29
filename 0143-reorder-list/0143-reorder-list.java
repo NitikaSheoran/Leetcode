@@ -12,7 +12,6 @@ class Solution {
             fast = fast.next.next;
         }
 
-        // Step 2: Reverse the second half
         ListNode curr = slow.next;
         slow.next = null;
         ListNode prev = null;
@@ -24,7 +23,6 @@ class Solution {
             curr = next;
         }
 
-        // Step 3: Merge the two halves
         ListNode first = head;
         ListNode second = prev;
 
