@@ -1,20 +1,17 @@
 class Solution {
-    public int f(int i, int[] prices, int buy, int[][] dp){
-        if(i>=prices.length) return 0;
-
-        if(dp[i][buy] != -1) return dp[i][buy];
-
-        if(buy==1){
-            return dp[i][buy] = Math.max(-prices[i] + f(i+1, prices, 0, dp), f(i+1, prices, 1, dp));
-        }else{
-            return dp[i][buy] = Math.max(prices[i] + f(i+1, prices, 1, dp), f(i+1, prices, 0, dp));
-        }
-    }
     public int maxProfit(int[] prices) {
-        int[][] dp = new int[prices.length][2];
+        Stack<Integer> stack = new Stack<>();
+        int res = 0;
         for(int i=0; i<prices.length; i++){
-            Arrays.fill(dp[i], -1);
+            while(i<prices.length && !stack.isEmpty() && stack.peek()<prices[i]){
+                res += (prices[i] - stack.pop());
+                stack.push(prices[i]);
+            }
+            if(i<prices.length){
+                stack.push(prices[i]);
+            }
+
         }
-        return f(0, prices, 1, dp);
+        return res;
     }
 }
