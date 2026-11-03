@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/NitikaSheoran/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/NitikaSheoran/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/NitikaSheoran/Leetcode/tree/master/0952-word-subsets) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/NitikaSheoran/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/NitikaSheoran/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1013-fibonacci-number](https://github.com/NitikaSheoran/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/NitikaSheoran/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NitikaSheoran/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NitikaSheoran/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1348,4 +1350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/NitikaSheoran/Leetcode/tree/master/0069-sqrtx) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
