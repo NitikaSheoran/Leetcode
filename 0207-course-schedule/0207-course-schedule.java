@@ -1,41 +1,36 @@
 class Solution {
-
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
-        int[] inDegree = new int[numCourses];
-        List<List<Integer>> adjList = new ArrayList<>();
-        for(int i=0; i<numCourses; i++){
-            adjList.add(new ArrayList<>());
+    public boolean canFinish(int n, int[][] prereq) {
+        int[] inDegree = new int[n];
+        for(int[] pre: prereq){
+            int i = pre[0];
+            int j = pre[1];
+            inDegree[j]++;
         }
-
-        for(int i=0; i<prerequisites.length; i++){
-            int[] prereq = prerequisites[i];
-            adjList.get(prereq[0]).add(prereq[1]);
-        }
-
-        for(int i=0; i<adjList.size(); i++){
-            for(int course: adjList.get(i)){
-                inDegree[course]++;
-            }
-        }
-        Queue<Integer> topo = new LinkedList<>();
-        int res = 0;
-
-        for(int i=0; i<inDegree.length; i++){
+        Queue<Integer> q = new LinkedList<>();
+        for(int i=0; i<n; i++){
             if(inDegree[i] == 0){
-                topo.add(i);
+                q.add(i);
             }
         }
-        while(!topo.isEmpty()){
-            int top = topo.peek();
-            res++;
-            topo.poll();
-
-            for(int adj: adjList.get(top)){
+        List<List<Integer>> adjL = new ArrayList<>();
+        for(int i=0; i<n; i++){
+            adjL.add(new ArrayList<>());
+        }
+        for(int[] edge: prereq){
+            int u = edge[0];
+            int v = edge[1];
+            adjL.get(u).add(v);
+        }
+        int count = 0;
+        while(!q.isEmpty()){
+            int top = q.poll();
+            count++;
+            for(int adj: adjL.get(top)){
                 inDegree[adj]--;
-                if(inDegree[adj] == 0) topo.add(adj);
+                if(inDegree[adj] == 0) q.add(adj);
             }
         }
+        return count == n;
 
-        return res == numCourses;
     }
 }
