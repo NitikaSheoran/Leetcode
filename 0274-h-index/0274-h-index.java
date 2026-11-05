@@ -1,25 +1,27 @@
 class Solution {
-    public boolean cit(int[] citations, int mid){
+    public boolean isCited(int mid, int[] nums){
         int count=0;
-        for(int i=citations.length-1; i>=0; i--){
-            if(citations[i] >= mid) count++;
+        for(int i=nums.length-1; i>=0; i--){
+            if(nums[i] >= mid) count++;
             if(count>=mid) return true;
         }
         return false;
     }
-    public int hIndex(int[] citations) {
-        int l=0;
-        int r=citations.length;
-        int ans=0;
+    public int hIndex(int[] nums) {
+        Arrays.sort(nums);
+        int n = nums.length;
+        int l = 0;
+        int r = n;
+        int res = 0;
         while(l<=r){
             int mid = (l+r)/2;
-            if(cit(citations, mid)){
-                ans=mid;
-                l=mid+1;
+            if(isCited(mid, nums)){
+                res = mid;
+                l = mid+1;
             }else{
-                r=mid-1;
+                r = mid-1;
             }
         }
-        return ans;
+        return res;
     }
 }
