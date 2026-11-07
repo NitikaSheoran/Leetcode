@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/NitikaSheoran/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/NitikaSheoran/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/NitikaSheoran/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1882-process-tasks-using-servers](https://github.com/NitikaSheoran/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NitikaSheoran/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/NitikaSheoran/Leetcode/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/NitikaSheoran/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/NitikaSheoran/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NitikaSheoran/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/NitikaSheoran/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/NitikaSheoran/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NitikaSheoran/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/NitikaSheoran/Leetcode/tree/master/2434-design-a-number-container-system) |
