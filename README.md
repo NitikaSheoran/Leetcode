@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/NitikaSheoran/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/NitikaSheoran/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1300-critical-connections-in-a-network](https://github.com/NitikaSheoran/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1380-number-of-closed-islands](https://github.com/NitikaSheoran/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/NitikaSheoran/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1267-count-servers-that-communicate](https://github.com/NitikaSheoran/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1380-number-of-closed-islands](https://github.com/NitikaSheoran/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/NitikaSheoran/Leetcode/tree/master/1428-jump-game-iii) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/NitikaSheoran/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/NitikaSheoran/Leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/NitikaSheoran/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1319-unique-number-of-occurrences](https://github.com/NitikaSheoran/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/NitikaSheoran/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/NitikaSheoran/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/NitikaSheoran/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/NitikaSheoran/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/NitikaSheoran/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1267-count-servers-that-communicate](https://github.com/NitikaSheoran/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1364-tuple-with-same-product](https://github.com/NitikaSheoran/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/NitikaSheoran/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NitikaSheoran/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -1053,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/NitikaSheoran/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/NitikaSheoran/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/NitikaSheoran/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1380-number-of-closed-islands](https://github.com/NitikaSheoran/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NitikaSheoran/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/NitikaSheoran/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -1344,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/NitikaSheoran/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/NitikaSheoran/Leetcode/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/NitikaSheoran/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NitikaSheoran/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NitikaSheoran/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
