@@ -1,25 +1,23 @@
 class Solution {
-    public boolean find(int[] gas, int[] cost, int idx){
-        int currGas = gas[idx];
-        int n = gas.length;
-        for(int i=idx; i<idx+n; i++){
-            int l = i%(n);
-            if(currGas < cost[l]) return false;
-            currGas = currGas + gas[(l+1)%n] - cost[l];
-        }
-        return true;
-    }
     public int canCompleteCircuit(int[] gas, int[] cost) {
-        int i=0;
+        int totalGas = 0;
+        int totalCost = 0;
         int n = gas.length;
-        if(n == 1 && gas[0] >= cost[0]) return 0;
-        ArrayList<Integer> possibleIdx = new ArrayList<>();
-        for(i=0; i<n; i++){
-            if(gas[i] > cost[i]) possibleIdx.add(i);
+        for(int i=0; i<n; i++){
+            totalGas += gas[i];
+            totalCost += cost[i];
         }
-        for(int idx: possibleIdx){
-            if(find(gas, cost, idx)) return idx;
+        if(totalGas < totalCost) return -1;
+        int currentGas = 0;
+        int start = 0;
+
+        for(int i=0; i<n; i++){
+            currentGas += gas[i]-cost[i];
+            if(currentGas < 0){
+                currentGas = 0;
+                start = i+1;
+            }
         }
-        return -1;
+        return start;
     }
 }
