@@ -1,38 +1,25 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        int zeroCount=0;
-        int zeroIdx=-1;
-        int mul = 1;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==0){
-                zeroCount++;
-                zeroIdx=i;
+        long prod = 1;
+        int n = nums.length;
+        int zero = 0;
+        int idx = -1;
+        for(int i=0; i<n; i++){
+            if(nums[i] == 0){
+                zero++;
+                idx = i;
             }
+            else prod = prod*nums[i];
         }
-        int[] res = new int[nums.length];
-        if(zeroCount>=2){
-            Arrays.fill(res,0);
-        }else if(zeroCount==1){
-            Arrays.fill(res,0);
-            for(int i=0; i<nums.length; i++){
-                if(i==zeroIdx) continue;
-                mul *= nums[i];
-            }
-            res[zeroIdx]=mul;
-        }else{
-            int[] prefMul = new int[nums.length];
-            int[] sufMul = new int[nums.length];
-            prefMul[0]=1;
-            sufMul[nums.length-1] = 1;
-            for(int i=1; i<nums.length; i++){
-                prefMul[i] = nums[i-1]*prefMul[i-1];
-            }
-            for(int i=nums.length-2; i>=0; i--){
-                sufMul[i] = sufMul[i+1]*nums[i+1];
-            }
-            for(int i=0; i<nums.length; i++){
-                res[i] = prefMul[i]*sufMul[i];
-            }
+        int[] res = new int[n];
+        Arrays.fill(res, 0);
+        if(zero>1) return res;
+        if(zero == 1){
+            res[idx] = (int)prod;
+            return res;
+        }
+        for(int i=0; i<n; i++){
+            res[i] = (int)prod/nums[i];
         }
         return res;
     }
