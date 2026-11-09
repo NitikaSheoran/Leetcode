@@ -1175,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-monthly-transactions-i](https://github.com/NitikaSheoran/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/NitikaSheoran/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1341-movie-rating](https://github.com/NitikaSheoran/Leetcode/tree/master/1341-movie-rating) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/NitikaSheoran/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1452-restaurant-growth](https://github.com/NitikaSheoran/Leetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/NitikaSheoran/Leetcode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/NitikaSheoran/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
