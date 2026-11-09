@@ -1168,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/NitikaSheoran/Leetcode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/NitikaSheoran/Leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/NitikaSheoran/Leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/NitikaSheoran/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1135-customers-who-bought-all-products](https://github.com/NitikaSheoran/Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/NitikaSheoran/Leetcode/tree/master/1148-article-views-i) |
 | [1258-article-views-i](https://github.com/NitikaSheoran/Leetcode/tree/master/1258-article-views-i) |
