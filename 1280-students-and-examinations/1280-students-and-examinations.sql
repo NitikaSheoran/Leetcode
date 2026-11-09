@@ -1,10 +1,9 @@
 # Write your MySQL query statement below
-select s.student_id, s.student_name, sub.subject_name, COALESCE(e.no_of_exams_attended, 0) as attended_exams
-from Students s
-cross join Subjects sub
+select s.student_id, s.student_name, sub.subject_name, coalesce(e.exm_attended, 0) as attended_exams
+from Students s cross join Subjects sub
 left join (
-    select student_id, subject_name, count(*) as no_of_exams_attended
-    from Examinations  
+    select student_id, subject_name, count(*) as exm_attended
+    from Examinations
     group by student_id, subject_name
-) as e on s.student_id=e.student_id and sub.subject_name=e.subject_name
-order by s.student_id, sub.subject_name
+) as e on e.student_id = s.student_id and e.subject_name = sub.subject_name
+order by student_id, subject_name
