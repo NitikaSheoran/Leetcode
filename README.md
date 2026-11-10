@@ -1194,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/NitikaSheoran/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1135-customers-who-bought-all-products](https://github.com/NitikaSheoran/Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/NitikaSheoran/Leetcode/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/NitikaSheoran/Leetcode/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/NitikaSheoran/Leetcode/tree/master/1258-article-views-i) |
 | [1280-students-and-examinations](https://github.com/NitikaSheoran/Leetcode/tree/master/1280-students-and-examinations) |
 | [1317-monthly-transactions-i](https://github.com/NitikaSheoran/Leetcode/tree/master/1317-monthly-transactions-i) |
