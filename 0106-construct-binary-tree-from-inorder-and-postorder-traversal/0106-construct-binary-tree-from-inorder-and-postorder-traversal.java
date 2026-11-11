@@ -1,26 +1,38 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    public TreeNode buildTree(int[] inorder, int[] postorder) {
-        return buildTree(inorder, 0, inorder.length - 1, postorder, 0, postorder.length - 1);
-    }
-    
-    private TreeNode buildTree(int[] inorder, int inStart, int inEnd, int[] postorder, int postStart, int postEnd) {
-        if (inStart > inEnd || postStart > postEnd) {
-            return null;
-        }
-        int rootVal = postorder[postEnd];
-        TreeNode root = new TreeNode(rootVal);
-        int rootIndex = 0;
-        for (int i = inStart; i <= inEnd; i++) {
-            if (inorder[i] == rootVal) {
-                rootIndex = i;
-                break;
-            }
-        }
-        int leftSize = rootIndex - inStart;
-        int rightSize = inEnd - rootIndex;
-        root.left = buildTree(inorder, inStart, rootIndex - 1, postorder, postStart, postStart + leftSize - 1);
-        root.right = buildTree(inorder, rootIndex + 1, inEnd, postorder, postEnd - rightSize, postEnd - 1);
-        
+    public TreeNode f(int inS, int inE, int postS, int postE, int[] inorder, int[] postorder, Map<Integer, Integer> map){
+        if(inS>inE || postS>postE) return null;
+
+        TreeNode root = new TreeNode(postorder[postE]);
+
+        int ind = map.get(root.val);
+        int remaining = ind-inS;
+
+        root.left = f(inS, ind-1, postS, postS+remaining-1, inorder, postorder, map);
+        root.right = f(ind+1, inE, postS+remaining, postE-1, inorder, postorder, map);
+
         return root;
+    }
+    public TreeNode buildTree(int[] inorder, int[] postorder) {
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i=0; i<inorder.length; i++){
+            map.put(inorder[i], i);
+        }
+
+        return f(0, inorder.length-1, 0, postorder.length-1, inorder, postorder, map);
     }
 }
