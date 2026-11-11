@@ -13,25 +13,28 @@
  *     }
  * }
  */
-class Solution{
-    public void indexing(Map<Integer, Integer> map, int[] in){
-        for(int i=0; i<in.length; i++){
-            map.put(in[i], i);
+class Solution {
+    public void makemap(Map<Integer, Integer> map, int[] inorder){
+        for(int i=0; i<inorder.length; i++){
+            map.put(inorder[i], i);
         }
     }
-    public TreeNode fun(int[] pre, int pS, int pE, int[] in, int inS, int inE, Map<Integer, Integer> map){
-        if(inS>inE || pS>pE) return null;
-        TreeNode root = new TreeNode(pre[pS]);
-        int inRoot = map.get(root.val);
-        int inLeft = inRoot-inS;
-        root.left = fun(pre, pS+1, pS+inLeft, in, inS, inS+inLeft,map);
-        root.right = fun(pre, pS+inLeft+1, pE, in, inS+inLeft+1, inE, map);
+    public TreeNode f(int inS, int inE, int preS, int preE, int[] inorder, int[] preorder, Map<Integer, Integer> map){
+        if(inS>inE || preS>preE) return null;
+
+        TreeNode root = new TreeNode(preorder[preS]);
+
+        int ind = map.get(root.val);
+        int remaining = ind-inS;
+        root.left = f(inS, ind-1, preS+1, preS+remaining, inorder, preorder, map);
+        root.right = f(ind+1, inE, preS+remaining+1, preE, inorder, preorder, map);
+
         return root;
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         Map<Integer, Integer> map = new HashMap<>();
-        indexing(map, inorder);
-        TreeNode root = fun(preorder, 0, preorder.length-1, inorder, 0, inorder.length-1, map);
-        return root;
+        makemap(map, inorder);
+
+        return f(0, inorder.length-1, 0, preorder.length-1, inorder, preorder, map);
     }
 }
