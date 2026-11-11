@@ -14,26 +14,32 @@
  * }
  */
 class Solution {
-    public void path(TreeNode root, int num, ArrayList<Integer> nums){
-        if(root == null){
+    int res = 0;
+    public int f2(String num){
+        int n = 0;
+
+        for(int i=0; i<num.length(); i++){
+            int digit = num.charAt(i)-'0';
+            n = n*10 + digit;
+        }
+        return n;
+    }
+    public void f(TreeNode root, String num){
+        if(root == null) return;
+
+        if(root.left == null && root.right == null){
+            num = num + root.val;
+            int x = f2(num);
+            System.out.println(x);
+            res += x;
             return;
         }
-        num = num*10 + root.val;
-        if(root.right == null && root.left == null){
-            nums.add(num);
-            System.out.println(num);
-            return;
-        }
-        path(root.left, num, nums);
-        path(root.right, num, nums);
+
+        f(root.right, num+root.val);
+        f(root.left, num+root.val);
     }
     public int sumNumbers(TreeNode root) {
-        ArrayList<Integer> nums = new ArrayList<>();
-        path(root, 0, nums);
-        int sum = 0;
-        for(int n: nums){
-            sum += n;
-        }
-        return sum;
+        f(root, "");
+        return res;
     }
 }
