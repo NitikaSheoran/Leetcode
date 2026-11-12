@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/NitikaSheoran/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NitikaSheoran/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/NitikaSheoran/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NitikaSheoran/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/NitikaSheoran/Leetcode/tree/master/3194-find-words-containing-character) |
