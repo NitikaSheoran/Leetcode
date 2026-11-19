@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/NitikaSheoran/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/NitikaSheoran/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NitikaSheoran/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NitikaSheoran/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NitikaSheoran/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NitikaSheoran/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -887,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/NitikaSheoran/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NitikaSheoran/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/NitikaSheoran/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2636-maximum-subsequence-score](https://github.com/NitikaSheoran/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3001-apply-operations-to-maximize-score](https://github.com/NitikaSheoran/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NitikaSheoran/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NitikaSheoran/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NitikaSheoran/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NitikaSheoran/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NitikaSheoran/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/NitikaSheoran/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
