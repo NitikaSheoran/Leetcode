@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/NitikaSheoran/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/NitikaSheoran/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/NitikaSheoran/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Design
 |  |
 | ------- |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NitikaSheoran/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NitikaSheoran/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Monotonic Stack
@@ -863,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/NitikaSheoran/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3483-alternating-groups-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1269,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/NitikaSheoran/Leetcode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NitikaSheoran/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4035-maximum-valid-split-positions-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## Number Theory
 |  |
