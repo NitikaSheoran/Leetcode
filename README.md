@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/NitikaSheoran/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NitikaSheoran/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/NitikaSheoran/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/NitikaSheoran/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NitikaSheoran/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NitikaSheoran/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NitikaSheoran/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NitikaSheoran/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NitikaSheoran/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1094,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NitikaSheoran/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3643-zero-array-transformation-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NitikaSheoran/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Matrix
 |  |
 | ------- |
@@ -1180,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3894-traffic-signal-color](https://github.com/NitikaSheoran/Leetcode/tree/master/3894-traffic-signal-color) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NitikaSheoran/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/NitikaSheoran/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/NitikaSheoran/Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/NitikaSheoran/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
@@ -1294,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/NitikaSheoran/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NitikaSheoran/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NitikaSheoran/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [4035-maximum-valid-split-positions-i](https://github.com/NitikaSheoran/Leetcode/tree/master/4035-maximum-valid-split-positions-i) |
 ## Doubly-Linked List
 |  |
