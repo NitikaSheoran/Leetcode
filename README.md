@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/NitikaSheoran/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NitikaSheoran/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3897-maximum-value-of-concatenated-binary-segments](https://github.com/NitikaSheoran/Leetcode/tree/master/3897-maximum-value-of-concatenated-binary-segments) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/NitikaSheoran/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/NitikaSheoran/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
@@ -907,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/NitikaSheoran/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NitikaSheoran/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/NitikaSheoran/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3897-maximum-value-of-concatenated-binary-segments](https://github.com/NitikaSheoran/Leetcode/tree/master/3897-maximum-value-of-concatenated-binary-segments) |
 ## Counting
 |  |
 | ------- |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NitikaSheoran/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NitikaSheoran/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3897-maximum-value-of-concatenated-binary-segments](https://github.com/NitikaSheoran/Leetcode/tree/master/3897-maximum-value-of-concatenated-binary-segments) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
