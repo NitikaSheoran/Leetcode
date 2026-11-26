@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/NitikaSheoran/Leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/NitikaSheoran/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NitikaSheoran/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3894-traffic-signal-color](https://github.com/NitikaSheoran/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/NitikaSheoran/Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [4006-count-valid-prefixes](https://github.com/NitikaSheoran/Leetcode/tree/master/4006-count-valid-prefixes) |
 ## Stack
@@ -1178,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/NitikaSheoran/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3894-traffic-signal-color](https://github.com/NitikaSheoran/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/NitikaSheoran/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/NitikaSheoran/Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/NitikaSheoran/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
@@ -1214,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/NitikaSheoran/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/NitikaSheoran/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Ordered Set
 |  |
 | ------- |
