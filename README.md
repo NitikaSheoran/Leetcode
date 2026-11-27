@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/NitikaSheoran/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3840-house-robber-v](https://github.com/NitikaSheoran/Leetcode/tree/master/3840-house-robber-v) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/NitikaSheoran/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NitikaSheoran/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NitikaSheoran/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NitikaSheoran/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3840-house-robber-v](https://github.com/NitikaSheoran/Leetcode/tree/master/3840-house-robber-v) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/NitikaSheoran/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
