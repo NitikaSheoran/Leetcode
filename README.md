@@ -1187,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NitikaSheoran/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/NitikaSheoran/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitikaSheoran/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/NitikaSheoran/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3886-count-number-of-trapezoids-i](https://github.com/NitikaSheoran/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3894-traffic-signal-color](https://github.com/NitikaSheoran/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NitikaSheoran/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
